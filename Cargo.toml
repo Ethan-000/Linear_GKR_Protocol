@@ -1,0 +1,17 @@
+[package]
+name = "linear_gkr"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.0"
+itertools = "0.10.0"
+ark-std = "0.3.0"
+ark-ff = "0.3.0"
+ark-poly = "0.3.0"
+ark-serialize = "0.3.0"
+ark-bls12-381 = "0.3.0"
+num-bigint = "0.4.0"
+ark-bls12-377 = "0.3.0"
